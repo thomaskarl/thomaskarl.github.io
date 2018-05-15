@@ -1,4 +1,6 @@
-_site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+/.idea
+/jekyll/projectExam/.idea/workspace.xml
+/jekyll/projectExam/.idea/vcs.xml
